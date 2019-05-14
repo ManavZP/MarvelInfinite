@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MarvelInfinite</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="stanbio">Stan Lee left behind a massive legacy.
+He was the creative leader of Marvel Comics, and along with some co-creators such as Jack Kirby and Steve Ditko, he created a universe of heroes that would become well known around the globe. In the 1990’s, he retired from his role in the company, shortly before his comics began developing into movies. However, his retire did not stop his influence, as he then became a public figurehead and a permanent “Executive Producer” position on every film thereafter.
+Today, he is widely known as the creator of the Marvel Universes, and he even makes a cameo appearance in every single movie.
+Though he passed on November 12, 2018, he will forever be respected in every community he was a part of.
+Excelsior!
+</string>
+</resources>
