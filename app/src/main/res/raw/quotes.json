@@ -1,0 +1,107 @@
+[
+  {
+    "hero": "Iron Man",
+    "bio": "Tony Stark is a genius, billionaire, playboy philanthropist. \nAfter his father, Howard Stark, died, he came to own Stark Industries, a weapons maker and distributor. During a visit to Iraq to show the power of his new weapons, he was attacked and kidnapped by the Ten Rings.He awoke in a cave with a car battery strapped to him. There was shrapnel in his body that the battery was keeping away from his heart. He built a metal suit of armor to escape. Upon his return to America, he started developing a fully functioning Iron Man suit based on the one he made in Iraq, complete with the Arc Reactor to power the suit and keep the shrapnel out of his heart, and used this suit of armor to fight against terrorists. \nHe soon became known as Iron Man.",
+    "status": "Alive"
+  },
+  {
+    "hero":"Black Panther",
+    "bio":"Tchaka, son of Tchalla, came into power as the King of Wakanda after his father’s death in America. \nWith this role of king, he also took on the role of the Black Panther, a hero who defended Wakanda, a hidden city run by the power of Vibranium. Upon his return to Wakanda, he was met with resistance. A man named Erik Killmonger claimed to be the rightful heir to the throne. After winning the deciding ceremony, Erik decided it was time for Wakanda to show themselves to the world and help oppressed Africans all around the world-with the use of weapons. Along with the help of his sister Yuri, his ally M’baka, and a CIA agent named Everett Ross, Tchaka put an end to Killmonger’s plan and took back the throne. \nHe then decided Wakanda should indeed show themselves to the world, but in a charitable way instead, sharing their power to help the world.",
+    "status": "Dusted"
+  },
+  {
+    "hero":"Thor",
+    "bio":"Thor Odinson is the former king of Asgard and New Asgard, a founding member of the Avengers, and the God of Thunder. \nWhen his irresponsible and impetuous behavior reignited a conflict between Asgard and Jotunheim, Thor was denied the right to become king, stripped of his power, and banished by his father Odin to Earth. While exiled on Earth, Thor learned humility, finding love with Jane Foster, and helping to save his new friends from a destructive threat sent by his adoptive brother Loki. Due to his selfless act of sacrifice, Thor redeemed himself in his father's eyes and was granted his power once more, which he then used to defeat Loki's schemes of genocide. \nWhile on Earth, Thor aided the Avengers in their quest to find Loki’s scepter. From then on, he became allies with the Avengers.",
+    "status": "Alive"
+  },
+  {
+    "hero":"Captain America",
+    "bio":"Captain Steven Grant 'Steve' Rogers is a World War II veteran, a founding member of the Avengers, and Earth's first known superhero. \nRogers had suffered from numerous health problems, and upon America's entry into World War II, was rejected from military service despite several attempts to enlist. Rogers was the only recipient of the Super Soldier Serum developed by Abraham Erskine under the Strategic Scientific Reserve. Determined to serve, Rogers ultimately volunteered for the Project Rebirth, which enhanced the frail Rogers' body to the peak of human physicality. Mistrusted by Colonel Chester Phillips, the head of the SSR, Rogers was relegated to propaganda campaigns, and was given the new moniker of Captain America. \nRogers later joined the war with a combat role after he single-handedly liberated captured Allied prisoners of war. After crashing his plane in the Arctic, his body became encased in ice. He was found by S.H.I.E.L.D., and then joined the Avengers.",
+    "status": "Alive"
+  },
+  {
+    "hero":"Hulk",
+    "bio":"Robert Bruce Banner, M.D., Ph.D., is a renowned scientist and a founding member of the Avengers. \nAs someone who was highly respected for his work regarding biochemistry, nuclear physics, and gamma radiation, he was commissioned by Thaddeus Ross to recreate the Super Soldier Serum which created Captain America, although Ross elected not to inform Banner what he was creating. However, when an exposure to high levels of gamma radiation instead of vita radiation went awry, the mild-mannered scientist had found that when angered, provoked or excited, he would transform into the huge, rage-fueled, nearly mindless creature known as Hulk. \nAfter some incidents, he returned to America where he ended up aiding the Avengers in their battle against Loki.",
+    "status": "Alive"
+  },
+  {
+    "hero":"Antman",
+    "bio":"Scott Edward Harris Lang is a former criminal who was convinced by Pym Technologies CEO Hank Pym to take up his mantle as the new Ant-Man. \nAs Ant-Man, Lang fought against Darren Cross, Pym's protégé who became obsessed with Pym Particles and intended to recreate and sell the technology to terrorist organizations such as HYDRA and the Ten Rings. After his daughter, Cassie Lang, was taken hostage by Cross, Lang was able to send both of them into the Quantum Realm, where he saw Pym's wife Janet van Dyne, before successfully returning. Cross was presumably killed. Lang then began a romantic relationship with Pym's daughter, Hope van Dyne. \nDuring the conflict between Captain America and Iron Man, he was recruited by Falcon to fight on the Cap’s side.",
+    "status": "In the Quantum Realm"
+  },
+  {
+    "hero":"Spiderman",
+    "bio":"Peter Benjamin Parker is a high school student who gained spider-like abilities, fighting crime across New York City as the alter ego of Spider-Man, hoping someday he'll live up to his heroes in the Avengers. \nWhile Parker juggled all his continued superhero duties with the demands of his high-school life, he was approached by Tony Stark who recruited Spider-Man to join the Avengers Civil War, putting Spiderman into the brief conflict with his personal hero, Captain America. \nParker then agreed and was given his new suit as well as brand new Stark technology in exchange for all his help, although Stark still did not make him an official member of the Avengers and instead returned Parker back home to continue his own hero work.",
+    "status": "Dusted"
+  },
+  {
+    "hero":"Star Lord",
+    "bio":"Peter Jason Quill is a Celestial-Human hybrid who was abducted from Earth by the Yondu Ravager Clan in 1988. \nAfter his abduction, he began building fame as the legendary outlaw Star-Lord. In 2014, he decided to leave the Ravagers and operate individually, starting by stealing a precious artifact known as the Orb, unintentionally becoming a key player in the Quest for the Orb. Following his arrest, he forged an uneasy alliance with fellow inmates Gamora, Drax the Destroyer, Rocket Raccoon, and Groot, and formed the Guardians of the Galaxy team with them a short while later in order to stop Ronan the Accuser from destroying Xandar. \nAfter the Battle of Xandar, he left with the other Guardians to do 'a little bit of good and a little bit of bad.' \nDuring one SOS response, he encountered Thor floating around in space, and saved him.",
+    "status": "Dusted"
+  },
+  {
+    "hero":"Black Widow",
+    "bio":"Natalia Alianovna 'Natasha' Romanoff, also known as Black Widow, was one of the most talented spies and assassins in the entire world and a founding member of the Avengers.\n Originally an agent of the Soviet agency for foreign intelligence, the KGB, she later became a member of S.H.I.E.L.D., the international counter-intelligence agency. Having extensive mastery in martial arts and armed with her Widow's Bite, Black Widow became one of S.H.I.E.L.D.'s most efficient agents. During one mission, she was sent undercover into Stark Industries to watch Tony Stark due to fears that he was dying. During this mission, Romanoff had assisted Stark with defeating Ivan Vanko's terrorist plots against him. \nAfter her friend, Clint Barton, was kidnapped by Loki, she joined the Avengers.",
+    "status": "Alive"
+  },
+  {
+    "hero":"Doctor Strange",
+    "bio":"Stephen Vincent Strange M.D., Ph.D is a powerful sorcerer and Master of the Mystic Arts. \nOriginally a brilliant yet arrogant neurosurgeon, Strange had suffered a car accident, resulting in his hands becoming crippled. When Western medicine failed him, Strange embarked on a journey that led him to Kamar-Taj where Strange had made the discovery of magic and alternate dimensions, being trained by the Ancient One. Though focused on healing his hands, Strange learned more of the mystic arts and helped the Masters prevent Kaecilius from merging Earth with their Dark Dimension, but not before witnessing the Ancient One's death. \nWith the demise of his mentor, Strange became the protector of the New York Sanctum within New York City as well as Earth's protector from any inter-dimensional threats. \nShamballa.",
+    "status": "Dusted"
+  },
+  {
+    "hero":"Captain Marvel",
+    "bio":"Captain Carol Danvers, also known as Captain Marvel, is a former United States Air Force pilot who, upon being exposed to the energy of the Tesseract, obtained cosmic powers.\n She was made into a Kree-Human hybrid via a blood transfusion from Yon-Rogg, while having her memories removed, turning her into the Kree's weapon and a member of Starforce. During the the Kree's war with the Skrulls, Danvers returned to Earth and began recalling her past, with help from Nick Fury as well as Maria Rambeau. Danvers also discovered that Yon-Rogg had been manipulating her for years, learning from Talos that the Skrulls were merely seeking to find a new home. \nWith this information, Danvers unlocked her true powers and defeated the Kree invasion onto Earth that was being led by Ronan the Accuser (I think it was a personal attack or something), before setting off out to the far reaches of the galaxy to finish what her late mentor Mar-Vell had once started.",
+    "status": "On Her Way?"
+  },
+  {
+    "hero":"Drax",
+    "bio":"Drax, also known as Drax the Destroyer, is a former intergalactic criminal and a member of the Guardians of the Galaxy.\n He sought revenge on Ronan the Accuser for killing his wife and daughter, and went on a rampage across the galaxy, ending with him being imprisoned by the Nova Corps in the Kyln. There, Drax became uneasy allies with Star-Lord, Gamora, Rocket Raccoon, and Groot. Together they broke out of the Kyln and became embroiled in the Quest for the Orb.\n After the Battle of Xandar, in which he finally exacted his vengeance on Ronan, Drax left Xandar with the other Guardians but not before declaring Thanos as his next target.",
+    "status": "Dusted"
+  },
+  {
+    "hero":"Falcon",
+    "bio":"Samuel Thomas 'Sam' Wilson, better known as Falcon, is a former United States Air Force pararescue airman who left active duty when his wing-man (haha) Riley died in combat, choosing instead to begin helping any of his fellow veterans who were suffering from post-traumatic stress disorder at Veterans Affairs.\n During this time, Wilson met and soon became an ally of Captain America during the beginning of the HYDRA Uprising, assisting him in bringing down Alexander Pierce's schemes for Project Insight before then choosing to remain with Captain America for future missions.\n Once he lost a fight to Ant-Man, despite being much larger.",
+    "status": "Dusted"
+  },
+  {
+    "hero":"Quicksilver",
+    "bio":"Pietro Maximoff was a native of the Eastern European country of Sokovia who grew up with his fraternal twin sister, Wanda.\n The country, which was embroiled in constant war and strife, became the base of operations for a HYDRA cell operated by Wolfgang von Strucker, who recruited Pietro and Wanda to take part in a series of tests involving the Scepter, giving the twins superpowers. While his sister received a number of mental abilities, Pietro acquired the ability to move at supersonic speeds and other physical features.\n When HYDRA fell, the twins joined the A.I. Ultron to continue their quest for revenge on Tony Stark, but eventually switched sides and helped the Avengers when they discovered Ultron's true intentions.\n Pietro then fought in the Battle of Sokovia alongside all of the other Avengers, but later sacrificed his own life to protect Hawkeye and a civilian boy named Costel, much to his sister's grief.",
+    "status": "Dead"
+  },
+  {
+    "hero":"Gamora",
+    "bio":"Gamora was a former Zehoberei assassin and a member of the Guardians of the Galaxy. \nShe became the adopted daughter of Thanos and adopted sister of Nebula after he killed half of her race. She served him for years before betraying him in an attempt to free herself from his ways. She was hired to steal the Orb, and became caught up in the Quest for the Orb, becoming friends with the other members of the Guardians of the Galaxy. After the Battle of Xandar, she left to work with them all. Having made a deal with the Sovereign to kill the Abilisk, Gamora was able to take back custody of Nebula with the intention of finally bringing her to justice in Xandar. \nThere is no question that she hates her father, Thanos. The real question is: Why is Gamora?",
+    "status": "Dead"
+  },
+  {
+    "hero":"Rocket",
+    "bio":"89P13 is a genetically enhanced raccoon turned freelance criminal, calling himself Rocket.\n Alongside his friend and partner Groot, Rocket traveled the galaxy picking up bounties until they met Star-Lord who then convinced them to assist him to sell the Orb for a massive profit. However as it was discovered that the Orb was one of the Infinity Stones which was being sought out by Ronan the Accuser, Rocket was convinced to risk everything to stop Ronan's plans to destroy Xandar and enslave the world. During the ensuing conflict, Rocket managed to assist his friends in destroying Ronan, despite Groot being killed. \nHe then became a member of the Guardians of the Galaxy alongside the newly planted baby Groot.",
+    "status": "Alive"
+  },
+  {
+    "hero":"Groot",
+    "bio":"I am Groot. I am Groot. I am Groot. I am Groot! I am Groot...I am Groot? I am Groot. I am Groot. I am Groot. I am Groot. I am Groot. I am Groot. I am Groot. I am Groot, I am Groot. I am Groot! I am Groot (I am Groot). I am Groot. I am Groot. I am Groot. I am Groot, I am Groot, I am Groot. I am Groot. I am Groot. I am Groot? I am Groot. \nI am Groot.",
+    "status": "Dusted"
+  },
+  {
+    "hero":"Scarlet Witch",
+    "bio":"Wanda Maximoff is a native of the Eastern European country of Sokovia who grew up with her twin brother, Pietro. \nIn an effort to help purge their country of strife, the twins agreed to undergo experiments with the Scepter under the supervision of Wolfgang von Strucker's HYDRA cell, and received superpowers as a result, with Wanda attaining various abilities including telekinesis, telepathy, and energy manipulation. When HYDRA fell, the twins joined the robot Ultron to get their revenge on Tony Stark, but eventually switched sides and joined the Avengers when they discovered Ultron's true intentions. \nAlthough Pietro was killed during the ensuing Ultron Offensive, Wanda survived and became a member of the Avengers. During the Avengers Civil War, she sided with Captain America and was briefly imprisoned in the Raft before Rogers freed her along with his teammates.\n She is in a relationship with Vision.",
+    "status": "Dusted"
+  },
+  {
+    "hero":"Vision",
+    "bio":"Vision was an android who possessed a synthetic vibranium body created by Ultron and Helen Cho, along with the powerful space gem known as the Mind Stone.\n Originally conceived as the perfect form for Ultron, the body was stolen by the Avengers, after which it was repurposed by Tony Stark and Bruce Banner, who uploaded the remnants of Stark's personal A.I. J.A.R.V.I.S. into it. Upon his birth, Vision declared he was a mixture of Ultron and J.A.R.V.I.S., one that would fight to protect humanity at all costs. Vision then joined the Avengers in the Battle of Sokovia, using his powers to prevent Ultron from transferring his consciousness into the internet and allowing the Avengers to successfully put an end to him. \nHe is in a relationship with Wanda.",
+    "status": "Destroyed"
+  },
+  {
+    "hero":"Hawkeye",
+    "bio":"Clinton Francis 'Clint' Barton, also known as Hawkeye, is a skilled marksman, a former special agent of S.H.I.E.L.D. and one of the founding members of the Avengers. \nKnown for his use of the bow and arrow as his primary weapon, Barton had become one of the best agents of S.H.I.E.L.D., responsible for the recruitment of Black Widow, whom he developed a strong friendship with. Assigned by Nick Fury into watching over the Tesseract, he was brainwashed by Loki and used as a pawn for all his evil schemes. \nHowever, following their Attack on the Helicarrier, he was freed from Loki's mental control by Black Widow and joined the Avengers to fight against Loki's Chitauri army in the Battle of New York, ending Loki's Invasion before Hawkeye returned to his work as a S.H.I.E.L.D. agent.",
+    "status": "Unkown"
+  },
+  {
+    "hero":"Bucky",
+    "bio":"Sergeant James Buchanan 'Bucky' Barnes is a World War II veteran, a former officer of the 107th Infantry Regiment and the best friend of Steve Rogers since childhood.\n Barnes was conscripted and assigned to the 107th in 1943. His regiment was captured by HYDRA, where Barnes was experimented on by HYDRA scientist Arnim Zola. Barnes, along with what remained of his regiment, were later rescued by Rogers, who had become Captain America during Barnes' military absence. Joining forces in the continuing war, Barnes and Rogers formed the Howling Commandos to battle the Red Skull's forces. \nDuring an attempt to capture Zola, Barnes was caught in an ambush and plummeted hundreds of feet from a train. As no body was ever recovered, he was then presumed dead, but officially listed as MIA. ",
+    "status": "Dusted"
+  }
+]

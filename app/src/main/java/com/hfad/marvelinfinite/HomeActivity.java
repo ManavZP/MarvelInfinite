@@ -17,7 +17,6 @@ public class HomeActivity extends AppCompatActivity {
     private ImageView marvelLogo;
     private ImageView stone;
     private ImageView web;
-    private TextView ranks;
     private ImageView stan;
 
     @Override
@@ -66,13 +65,6 @@ public class HomeActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-        ranks.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(HomeActivity.this, RanksActivity.class);
-                startActivity(intent);
-            }
-        });
 
     }
 
@@ -89,7 +81,6 @@ public class HomeActivity extends AppCompatActivity {
         marvelLogo = findViewById(R.id.imageView_home_logo);
         stone = findViewById(R.id.imageView_home_universes);
         web = findViewById(R.id.imageView_home_web);
-        ranks = findViewById(R.id.textView_home_lists);
         stan = findViewById(R.id.imageView_home_title);
     }
 }

@@ -83,4 +83,18 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView_universe_comic" />
 
+    <ImageView
+        android:id="@+id/imageView_universe_back"
+        android:layout_width="63dp"
+        android:layout_height="90dp"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/ig"
+        app:layout_constraintBottom_toTopOf="@+id/imageView_universe_comic"
+        app:layout_constraintEnd_toStartOf="@+id/imageView_universe_mcu"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/imageView_universe_fox"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.993" />
+
 </android.support.constraint.ConstraintLayout>
