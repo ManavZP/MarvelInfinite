@@ -15,7 +15,7 @@
         android:fontFamily="@font/holtwood_one_sc"
         android:gravity="center"
         android:text="TextView"
-        android:textColor="@android:color/black"
+        android:textColor="@android:color/holo_red_dark"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

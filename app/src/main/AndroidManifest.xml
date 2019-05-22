@@ -49,7 +49,9 @@
             android:name=".FavCharsActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name=".RanksActivity" />
-        <activity android:name=".StanLeeActivity"></activity>
+        <activity android:name=".StanLeeActivity" />
+        <activity android:name=".StonesActivity" />
+        <activity android:name=".StoneInfoActivity"></activity>
     </application>
 
 </manifest>

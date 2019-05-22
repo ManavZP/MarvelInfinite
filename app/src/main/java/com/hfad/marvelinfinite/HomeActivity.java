@@ -18,6 +18,7 @@ public class HomeActivity extends AppCompatActivity {
     private ImageView stone;
     private ImageView web;
     private ImageView stan;
+    private ImageView shield;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,7 +35,7 @@ public class HomeActivity extends AppCompatActivity {
 
 
     private void setOnClickListeners() {
-        stone.setOnClickListener(new View.OnClickListener() {
+        shield.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(HomeActivity.this, UniverseActivity.class);
@@ -65,6 +66,13 @@ public class HomeActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        stone.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(HomeActivity.this, StonesActivity.class);
+                startActivity(intent);
+            }
+        });
 
     }
 
@@ -79,8 +87,9 @@ public class HomeActivity extends AppCompatActivity {
 
     private void wireWidgets() {
         marvelLogo = findViewById(R.id.imageView_home_logo);
-        stone = findViewById(R.id.imageView_home_universes);
+        stone = findViewById(R.id.imageView_home_stones);
         web = findViewById(R.id.imageView_home_web);
         stan = findViewById(R.id.imageView_home_title);
+        shield = findViewById(R.id.imageView_home_universes);
     }
 }

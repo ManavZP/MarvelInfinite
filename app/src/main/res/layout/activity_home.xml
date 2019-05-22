@@ -50,20 +50,21 @@
 
     <ImageView
         android:id="@+id/imageView_home_universes"
-        android:layout_width="99dp"
-        android:layout_height="89dp"
+        android:layout_width="102dp"
+        android:layout_height="81dp"
         android:layout_marginEnd="72dp"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="44dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/imageView_home_logo"
         app:layout_constraintTop_toBottomOf="@+id/textView_home_title"
-        app:srcCompat="@drawable/universes" />
+        app:srcCompat="@drawable/shield" />
 
     <TextView
         android:id="@+id/textView_home_fav"
         android:layout_width="121dp"
         android:layout_height="51dp"
+        android:layout_marginBottom="8dp"
         android:layout_marginStart="56dp"
         android:layout_marginTop="12dp"
         android:fontFamily="@font/holtwood_one_sc"
@@ -71,6 +72,7 @@
         android:text="Favorite Characters"
         android:textColor="@android:color/background_light"
         android:typeface="serif"
+        app:layout_constraintBottom_toTopOf="@+id/imageView_home_stones"
         app:layout_constraintEnd_toStartOf="@+id/textView_home_universes"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintHorizontal_chainStyle="spread_inside"
@@ -81,11 +83,13 @@
         android:id="@+id/textView_home_universes"
         android:layout_width="98dp"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
         android:layout_marginEnd="72dp"
         android:layout_marginTop="20dp"
         android:fontFamily="@font/holtwood_one_sc"
         android:text="Universes"
         android:textColor="@android:color/background_light"
+        app:layout_constraintBottom_toTopOf="@+id/imageView_home_stones"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/textView_home_fav"
@@ -122,5 +126,27 @@
         app:layout_constraintEnd_toStartOf="@+id/imageView_home_web"
         app:layout_constraintHorizontal_bias="0.978"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView_home_stones"
+        android:layout_width="78dp"
+        android:layout_height="95dp"
+        app:srcCompat="@drawable/universes"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="374dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/holtwood_one_sc"
+        android:text="The Infinity Stones"
+        android:textColor="@android:color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView_home_stones" />
 
 </android.support.constraint.ConstraintLayout>
