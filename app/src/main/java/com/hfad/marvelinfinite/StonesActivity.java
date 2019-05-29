@@ -15,6 +15,10 @@ public class StonesActivity extends AppCompatActivity {
     private ImageView powerStone;
     private ImageView realityStone;
 
+    private ImageView ig;
+
+    public static final String STONE_EXTRA = "stone";
+
 
 
 
@@ -33,7 +37,54 @@ public class StonesActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(StonesActivity.this, StoneInfoActivity.class);
+                intent.putExtra(STONE_EXTRA, "soul");
                 startActivity(intent);
+            }
+        });
+        timeStone.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(StonesActivity.this, StoneInfoActivity.class);
+                intent.putExtra(STONE_EXTRA, "time");
+                startActivity(intent);
+            }
+        });
+        mindStone.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(StonesActivity.this, StoneInfoActivity.class);
+                intent.putExtra(STONE_EXTRA, "mind");
+                startActivity(intent);
+            }
+        });
+        spaceStone.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(StonesActivity.this, StoneInfoActivity.class);
+                intent.putExtra(STONE_EXTRA, "space");
+                startActivity(intent);
+            }
+        });
+        powerStone.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(StonesActivity.this, StoneInfoActivity.class);
+                intent.putExtra(STONE_EXTRA, "power");
+                startActivity(intent);
+            }
+        });
+        realityStone.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(StonesActivity.this, StoneInfoActivity.class);
+                intent.putExtra(STONE_EXTRA, "reality");
+                startActivity(intent);
+            }
+        });
+        ig.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
             }
         });
     }
@@ -45,6 +96,8 @@ public class StonesActivity extends AppCompatActivity {
         spaceStone = findViewById(R.id.imageView_stones_space);
         powerStone = findViewById(R.id.imageView_stones_power);
         realityStone = findViewById(R.id.imageView_stones_reality);
+
+        ig = findViewById(R.id.imageView_stones_back);
 
     }
 }

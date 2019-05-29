@@ -21,4 +21,43 @@ Today, he is widely known as the creator of the Marvel Universes, and he even ma
 Though he passed on November 12, 2018, he will forever be respected in every community he was a part of.
 Excelsior!
 </string>
+
+    <string name="soul_bio">
+        The Soul Stone is the most mysterious Infinity Stone. Its first appearance was in Avengers: Infinity War. Thanos
+        acquired it by travelling to Voromir and sacrificing Gamora, his adopted daughter. The stone is guarded by the spirit
+        of Red Skull. According to the Russo Brothers, this Red Skull Spirit has no memory of his previous life, but is rather
+        an entirely new entity. Despite all this, no one is quite sure exactly what it is the Soul Stone actually does.
+    </string>
+    <string name="time_bio">
+        The Time Stone is the most green Infinity Stone. While its powers are not completely clear, it has the ability to
+        alter time. It was wielded by the character Doctor Strange in the movie Doctor Strange. In Avengers: Infinity War, Strange was forced to give the stone to Thanos. The extent of
+        its powers that was shown is present in Doctor Strange, where Strange puts himself in a time loop during his confrontation with Dormamu.
+        It is also able to rewind time in a certain limited space. In Wakanda, Scarlett was forced to destroy the Mind Stone, and therefore destroy her
+        beloved Vision. Thanos used the Time Stone to revive Vision, only to kill him again by ripping the Mind Stone out of his head.
+    </string>
+    <string name="mind_bio">
+        The Mind Stone is perhaps the most impactful stone, emotion-wise. It was the final stone acquired by Thanos. It originally
+        came from the God Scepter of Loki. In Avengers: Age of Ultron, the Avengers captured the Scepter and Tony Stark and Bruce Banner started
+        studying it. Stark allowed J.A.R.V.I.S. to experimenting with it. It eventually became the driving force behind Vision and Ultron.
+        In Avengers: Infinity War, Thanos ripped the stone out of Vision's head, effectively killing him and emotionally tearing Scarlett Witch
+        apart. It has the ability to control people\'s minds.
+    </string>
+    <string name="space_bio">
+        The Space Stone was the second Infinity Stone in Loki\'s arsenal during the attack on New York in The Avengers. This stone presided in the Tesseract.
+        The Tesseract has a long history, but eventually was found by Nick Fury in Captain Marvel, where it then stayed in SHIELD headquarters. Loki
+        then took it and used it to open holes in space for his Chitaurian army. The Space Stone has the simplest ability: it can let the user travel through space. Loki actually later
+        stole the Tesseract from a falling Asguard in Thor: Ragnorok.
+    </string>
+    <string name="power_bio">
+        The Power Stone is the most powerful out of all the Infinity Stones. It\'s ability is giving immense brute power to the user.
+        It was used by Ronan in his attack on Xandar in Guardians of the Galaxy. After Ronan was defeated by the Guardians, the stone was under the
+        protection of the Nova Corps. Unfortunately, Thanos would then attack Xandar again (not in a movie) and acquire the Power Stone. This was
+        the first Infinity Stone that Thanos added to his gauntlet.
+    </string>
+    <string name="reality_bio">
+        The Reality Stone is one of the more interesting Infinity Stones. The Reality Stone took the form of the Aether in Thor: The Dark World. However,
+        its true power was not revealed. Later, it was stored in the Collector\'s museum in Knowhere. In Avengers: Infinity War, Thanos travelled to
+        Knowhere and attacked The Collector. There, it was revealed that the Reality Stone can literally alter reality. As Thanos stated, "Reality
+        can be whatever I want."
+    </string>
 </resources>

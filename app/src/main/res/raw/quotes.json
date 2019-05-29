@@ -25,17 +25,17 @@
     "status": "Alive"
   },
   {
-    "hero":"Antman",
+    "hero":"Ant-Man",
     "bio":"Scott Edward Harris Lang is a former criminal who was convinced by Pym Technologies CEO Hank Pym to take up his mantle as the new Ant-Man. \nAs Ant-Man, Lang fought against Darren Cross, Pym's protégé who became obsessed with Pym Particles and intended to recreate and sell the technology to terrorist organizations such as HYDRA and the Ten Rings. After his daughter, Cassie Lang, was taken hostage by Cross, Lang was able to send both of them into the Quantum Realm, where he saw Pym's wife Janet van Dyne, before successfully returning. Cross was presumably killed. Lang then began a romantic relationship with Pym's daughter, Hope van Dyne. \nDuring the conflict between Captain America and Iron Man, he was recruited by Falcon to fight on the Cap’s side.",
     "status": "In the Quantum Realm"
   },
   {
-    "hero":"Spiderman",
+    "hero":"Spider-Man",
     "bio":"Peter Benjamin Parker is a high school student who gained spider-like abilities, fighting crime across New York City as the alter ego of Spider-Man, hoping someday he'll live up to his heroes in the Avengers. \nWhile Parker juggled all his continued superhero duties with the demands of his high-school life, he was approached by Tony Stark who recruited Spider-Man to join the Avengers Civil War, putting Spiderman into the brief conflict with his personal hero, Captain America. \nParker then agreed and was given his new suit as well as brand new Stark technology in exchange for all his help, although Stark still did not make him an official member of the Avengers and instead returned Parker back home to continue his own hero work.",
     "status": "Dusted"
   },
   {
-    "hero":"Star Lord",
+    "hero":"Star-Lord",
     "bio":"Peter Jason Quill is a Celestial-Human hybrid who was abducted from Earth by the Yondu Ravager Clan in 1988. \nAfter his abduction, he began building fame as the legendary outlaw Star-Lord. In 2014, he decided to leave the Ravagers and operate individually, starting by stealing a precious artifact known as the Orb, unintentionally becoming a key player in the Quest for the Orb. Following his arrest, he forged an uneasy alliance with fellow inmates Gamora, Drax the Destroyer, Rocket Raccoon, and Groot, and formed the Guardians of the Galaxy team with them a short while later in order to stop Ronan the Accuser from destroying Xandar. \nAfter the Battle of Xandar, he left with the other Guardians to do 'a little bit of good and a little bit of bad.' \nDuring one SOS response, he encountered Thor floating around in space, and saved him.",
     "status": "Dusted"
   },
@@ -75,7 +75,7 @@
     "status": "Dead"
   },
   {
-    "hero":"Rocket",
+    "hero":"Rocket Raccoon",
     "bio":"89P13 is a genetically enhanced raccoon turned freelance criminal, calling himself Rocket.\n Alongside his friend and partner Groot, Rocket traveled the galaxy picking up bounties until they met Star-Lord who then convinced them to assist him to sell the Orb for a massive profit. However as it was discovered that the Orb was one of the Infinity Stones which was being sought out by Ronan the Accuser, Rocket was convinced to risk everything to stop Ronan's plans to destroy Xandar and enslave the world. During the ensuing conflict, Rocket managed to assist his friends in destroying Ronan, despite Groot being killed. \nHe then became a member of the Guardians of the Galaxy alongside the newly planted baby Groot.",
     "status": "Alive"
   },
@@ -100,7 +100,7 @@
     "status": "Unkown"
   },
   {
-    "hero":"Bucky",
+    "hero":"Winter Soldier",
     "bio":"Sergeant James Buchanan 'Bucky' Barnes is a World War II veteran, a former officer of the 107th Infantry Regiment and the best friend of Steve Rogers since childhood.\n Barnes was conscripted and assigned to the 107th in 1943. His regiment was captured by HYDRA, where Barnes was experimented on by HYDRA scientist Arnim Zola. Barnes, along with what remained of his regiment, were later rescued by Rogers, who had become Captain America during Barnes' military absence. Joining forces in the continuing war, Barnes and Rogers formed the Howling Commandos to battle the Red Skull's forces. \nDuring an attempt to capture Zola, Barnes was caught in an ambush and plummeted hundreds of feet from a train. As no body was ever recovered, he was then presumed dead, but officially listed as MIA. ",
     "status": "Dusted"
   }
