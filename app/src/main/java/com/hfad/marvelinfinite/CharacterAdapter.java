@@ -1,58 +1,56 @@
 package com.hfad.marvelinfinite;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ArrayAdapter;
+import android.widget.BaseAdapter;
 import android.widget.ImageView;
-import android.widget.RatingBar;
 import android.widget.TextView;
-import com.squareup.picasso.Picasso;
 
+public class CharacterAdapter extends BaseAdapter {
 
+    private final Context mContext;
+    public final Character[] heroes;
 
-
-import java.util.List;
-
-public class CharacterAdapter extends ArrayAdapter {
-
-    private Context context;
-    private int resource;
-    private List<FavCharacter> favCharacterList;
-
-
-
-    public CharacterAdapter(@NonNull Context context, int resource, @NonNull List<FavCharacter> favCharacterList) {
-        super(context, resource, favCharacterList);
-
-        this.context = context;
-        this.resource = resource;
-        this.favCharacterList = favCharacterList;
-
+    public CharacterAdapter(Context context, Character[] heroes) {
+        this.mContext = context;
+        this.heroes = heroes;
     }
 
-    @NonNull
     @Override
-    public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent){
+    public int getCount() {
+        return heroes.length;
+    }
 
-        if(convertView == null){
-            convertView = LayoutInflater.from(context).inflate(R.layout.item_favcharlist, parent,false);
+    @Override
+    public long getItemId(int position) {
+        return 0;
+    }
+
+    @Override
+    public Object getItem(int position) {
+        return null;
+    }
+
+
+
+    public View getView(int position, View convertView, ViewGroup parent) {
+
+        final Character hero = heroes[position];
+
+
+        if (convertView == null) {
+            final LayoutInflater layoutInflater = LayoutInflater.from(mContext);
+            convertView = layoutInflater.inflate(R.layout.linearlayout_character, null);
         }
 
-        TextView textViewName = convertView.findViewById(R.id.textView_favcharitem_name);
-        ImageView imageViewImg = convertView.findViewById(R.id.imageView_favcharitem_image);
+        final ImageView imageView = convertView.findViewById(R.id.imageview_cover_art);
+        final TextView nameTextView = convertView.findViewById(R.id.textview_hero_name);
 
-        FavCharacter currentChar = favCharacterList.get(position);
-        textViewName.setText(currentChar.getName());
-
-        Picasso.get().load(currentChar.getImgUrl()).into(imageViewImg);
+        imageView.setImageResource(hero.getImageResource());
+        nameTextView.setText(hero.getName());
 
         return convertView;
-
-
     }
-
 }

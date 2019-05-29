@@ -65,12 +65,9 @@ public class FavCharsActivity extends AppCompatActivity {
             @Override
             public void handleResponse(final List<FavCharacter> charslist )
             {
-                FavCharsActivity.this.charslist = charslist;
-                adapter = new CharacterAdapter(
-                        FavCharsActivity.this,
-                        android.R.layout.simple_list_item_1,
-                        charslist);
-                favcharlist.setAdapter(adapter);
+//                FavCharsActivity.this.charslist = charslist;
+//                adapter = new CharacterAdapter(FavCharsActivity.this, android.R.layout.simple_list_item_1, charslist);
+//                favcharlist.setAdapter(adapter);
 
 
 //                listViewRestaurant.setOnItemClickListener(new AdapterView.OnItemClickListener() {
